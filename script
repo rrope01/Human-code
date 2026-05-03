@@ -53,4 +53,20 @@ continua dal punto 2 fino a finire gli strati
 4 chiamo il ristorante
 5 ordino la pizza
 
-7Scansionare un documento su più fogli fronte-retro
+7 Scansionare un documento su più fogli fronte-retro
+
+prendo la pila di fogli da scannerizzare
+per foglio in pila lo inserisco nella fotocopiatrice e scannerizzo
+giro il foglio e scanerizzo ancora
+butto il foglio e ricomincio dal primo in pila
+
+11 gioco del blackjack
+
+1prendo un mazzo di carte
+2 do una carta coperta a tutti i giocatori e li faccio puntare
+3 scelgo un giocatore
+4 gli chiedo se hitta o resta
+4.1 se hitta gli fornisco la carta e torno al punto 4
+4.2 se resta passo al prossimo giocatore tornando al punto 3 se ne esiste uno, se sono finiti continuo
+5 ora giriamo la carta coperta del banco
+6 se il banco ha 21 tutti perdono, altrimenti chi ha superato il banco vince in base alla sua puntata
