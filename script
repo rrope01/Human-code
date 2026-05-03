@@ -1,0 +1,56 @@
+1 Fare la spesa seguendo una lista:
+
+1sono al supermercato
+2per ogni scaffale partendo in ordine dal primo controllo:
+3per ogni prodotto sulla lista controllo se è nello scaffale in cui cerco c'è il prodotto
+4.1 si? tolgo il prodotto dalla lista e continuo
+4.2 no? passo al prodotto successivo
+5 contorllati tutti i prodotti in lista passo allo scaffale 2
+
+2 Aprire un pacchetto di figurine
+
+1 prendo il pacchetto
+2prendo l album
+3for figurina in pacchetto
+4 for spot in album controllo se la figurina è già inserita
+4.1 si? la segno come doppia e continuo
+4.2 no? allora va nella pila delle doppie e continuo
+
+3Scegliere cosa guardare su Netflix
+
+1 apro Netflix
+2 for film in netflix:
+2.1 se il film mi piace lo guardo
+2.2 se non mi piace passo al prossimo
+
+4Preparare le lasagne alla bolognese
+
+1 andare al supermercato grazie al punto 1 e comprare tutti gkli ingredienti
+2 for numero di strati in lasagna:
+3 metti uno strato di foglio di pasta
+4 metti uno strato di bsciamella
+5 metti uno strato di ragù
+continua dal punto 2 fino a finire gli strati
+6 inforna
+
+5 Comprare qualcosa su Amazon 
+
+1 apro Amazon
+2 sfoglio la categoria libri
+3 per ogni libro che vedo:
+4 è di un genere che può piacere a Silvia?
+4.1 si, lo compro
+4.2 no, continuo
+
+
+6 Ordinare una pizza
+
+1 apro il meù del ristorante
+2 per ogni pizza controllo:
+3La voglio?
+3.1 si, scelta
+3.2 continuo
+4 chiamo il ristorante
+5 ordino la pizza
+
+7Scansionare un documento su più fogli fronte-retro
